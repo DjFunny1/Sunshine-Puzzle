@@ -60,7 +60,7 @@ body {
     z-index: 100;
 }
 #profile {
-    /*display: none;*/ /*PARA ACTIVAR Y DESACTIVAR EL BLOQUEO DEL PERFIL/XATSPACE*/
+    display: none; /*PARA ACTIVAR Y DESACTIVAR EL BLOQUEO DEL PERFIL/XATSPACE*/
     margin-top: 20px;
     border: 1px solid #cccccc00;
     text-align: center;
